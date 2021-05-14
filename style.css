@@ -505,6 +505,17 @@ button {
     border-radius: 0 0 29px 29px;
 }
 
+.mobile_firendly li{
+    padding: 15px;
+    border: 1px solid white;
+}
+
+.mobile_friendly li a{
+    display: block;
+    color: #ffffff!important;
+    margin: 10px;
+}
+
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
